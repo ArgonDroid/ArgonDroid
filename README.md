@@ -1,4 +1,13 @@
-<h2 align="left">Olá👋! Me chamo Mateus Cantos (ArgonDroid), formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e gamer nas horas vagas</h2>
+<h2 align="left">Olá👋! Me chamo Mateus Cantos (ArgonDroid)
+Formado em Análise e Desenvolvimento de Sistemas
+  
+:heart_eyes: Apaixonado por tecnologia
+
+:video_game: Gamer nas horas vagas
+
+Entusiasta
+
+</h2>
 
 ###
 
