@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! 
-My name is Matthew and I have a degree in systems analysis and development, passionate about technology and a gamer in my spare time</h2>
+My name is Matthew and I have a degree in Systems Analysis and Development, passionate about technology and a gamer in my spare time</h2>
 
 ###
 
